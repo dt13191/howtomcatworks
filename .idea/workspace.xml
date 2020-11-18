@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b68e2f2-20e1-45ec-b87f-f7860e16ed28" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hZszfRty8ht9Lfa5LsuLNv7ajK" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspace/bcm2.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\workspaceforme\HowTomcatWorks" />
+      <recent name="E:\idea\workspaceforme\HowTomcatWorks\how-tomcat-works-util\src\main\resources" />
+      <recent name="E:\idea\workspaceforme\HowTomcatWorks\how-tomcat-works-util\src\main\java\org\apache\catalina\connector\http" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Bootstrap (3)">
+    <configuration name="Bootstrap (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex06.pyrmont.startup.Bootstrap" />
+      <module name="how-tomcat-works-ex06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex06.pyrmont.startup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bootstrap (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex07.pyrmont.startup.Bootstrap" />
+      <module name="how-tomcat-works-ex07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex07.pyrmont.startup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bootstrap (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex09.pyrmont.startup.Bootstrap" />
+      <module name="how-tomcat-works-ex09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex09.pyrmont.startup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bootstrap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex05.pyrmont.startup.Bootstrap1" />
+      <module name="how-tomcat-works-ex05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex05.pyrmont.startup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bootstrap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex05.pyrmont.startup.Bootstrap2" />
+      <module name="how-tomcat-works-ex05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex05.pyrmont.startup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bootstrap (3)" />
+        <item itemvalue="Application.Bootstrap (2)" />
+        <item itemvalue="Application.Bootstrap (1)" />
+        <item itemvalue="Application.Bootstrap2" />
+        <item itemvalue="Application.Bootstrap1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b68e2f2-20e1-45ec-b87f-f7860e16ed28" name="Default Changelist" comment="" />
+      <created>1600230213294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600230213294</updated>
+      <workItem from="1600230216987" duration="18224000" />
+      <workItem from="1600420569358" duration="1539000" />
+      <workItem from="1600651550181" duration="83895000" />
+      <workItem from="1601168348714" duration="1559000" />
+      <workItem from="1601361667954" duration="8789000" />
+      <workItem from="1602210225415" duration="17681000" />
+      <workItem from="1603160062370" duration="41798000" />
+      <workItem from="1603353317482" duration="10174000" />
+      <workItem from="1603674988416" duration="5790000" />
+      <workItem from="1603792321037" duration="2275000" />
+      <workItem from="1604279535500" duration="926000" />
+      <workItem from="1604365460113" duration="2386000" />
+      <workItem from="1604575091388" duration="18612000" />
+      <workItem from="1604883962742" duration="32371000" />
+      <workItem from="1605229336905" duration="587000" />
+      <workItem from="1605488843380" duration="2943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/jdk1.8/jdk1.8.0_151/src.zip!/java/util/ResourceBundle.java</url>
+          <line>1713</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/jdk1.8/jdk1.8.0_151/src.zip!/java/util/ResourceBundle.java</url>
+          <line>1453</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/how-tomcat-works-ex04/src/main/java/ex04/pyrmont/core/SimpleContainer.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/how-tomcat-works-ex05/src/main/java/ex05/pyrmont/core/SimpleContext.java</url>
+          <line>628</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/how-tomcat-works-ex05/src/main/java/ex05/pyrmont/core/SimpleContext.java</url>
+          <line>586</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/how-tomcat-works-ex05/src/main/java/ex05/pyrmont/core/SimpleContext.java</url>
+          <line>594</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/how-tomcat-works-util/src/main/java/org/apache/catalina/logger/FileLogger.java</url>
+          <line>390</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/how-tomcat-works-util/src/main/java/org/apache/catalina/logger/FileLogger.java</url>
+          <line>393</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

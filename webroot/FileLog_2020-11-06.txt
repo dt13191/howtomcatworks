@@ -1,0 +1,27 @@
+2020-11-06 10:41:56 HttpConnector Opening server socket on all host IP addresses
+2020-11-06 10:41:56 HttpConnector[8080] Starting background thread
+2020-11-06 10:41:57 HttpProcessor[8080][0] Starting background thread
+2020-11-06 10:41:57 HttpProcessor[8080][1] Starting background thread
+2020-11-06 10:41:57 HttpProcessor[8080][2] Starting background thread
+2020-11-06 10:41:57 HttpProcessor[8080][3] Starting background thread
+2020-11-06 10:41:57 HttpProcessor[8080][4] Starting background thread
+2020-11-06 10:41:57 starting Context
+2020-11-06 10:41:57 Context started
+2020-11-06 10:44:45 HttpConnector Opening server socket on all host IP addresses
+2020-11-06 10:44:45 HttpConnector[8080] Starting background thread
+2020-11-06 10:44:46 HttpProcessor[8080][0] Starting background thread
+2020-11-06 10:44:46 HttpProcessor[8080][1] Starting background thread
+2020-11-06 10:44:46 HttpProcessor[8080][2] Starting background thread
+2020-11-06 10:44:46 HttpProcessor[8080][3] Starting background thread
+2020-11-06 10:44:46 HttpProcessor[8080][4] Starting background thread
+2020-11-06 10:44:46 starting Context
+2020-11-06 10:44:46 Context started
+2020-11-06 10:55:01 HttpConnector Opening server socket on all host IP addresses
+2020-11-06 10:55:01 HttpConnector[8080] Starting background thread
+2020-11-06 10:55:01 HttpProcessor[8080][0] Starting background thread
+2020-11-06 10:55:01 HttpProcessor[8080][1] Starting background thread
+2020-11-06 10:55:01 HttpProcessor[8080][2] Starting background thread
+2020-11-06 10:55:01 HttpProcessor[8080][3] Starting background thread
+2020-11-06 10:55:01 HttpProcessor[8080][4] Starting background thread
+2020-11-06 10:55:01 starting Context
+2020-11-06 10:55:01 Context started
